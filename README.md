@@ -11,7 +11,7 @@
 ![Contribution](https://activity-graph.herokuapp.com/graph?username=Fabioantonio757&theme=react-dark&hide_border=true&area=true&color=FF0000&line=808080&point=FF0000&area_color=808080)
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Fabioantonio757&theme=gruvbox&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Fabioantonio757&theme=darkhub&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
 
  </div>
