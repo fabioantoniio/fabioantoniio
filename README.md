@@ -2,6 +2,12 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF0000&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Fábio+Antônio+F.+Barbosa;I'm+20+years+old;I+from+Brasil,+MG;I+study+Computer+Science+at+University+of+Catalão;+:%29)](https://git.io/typing-svg)
 
+<div align="center">
+  
+  ![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
+  
+</div>
+
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Fabioantonio757&show_icons=true&count_private=true&hide_border=true&title_color=FF0000&icon_color=FF0000&text_color=FF0000&bg_color=0d1117" alt="Fabio Antonio github stats" /> 
