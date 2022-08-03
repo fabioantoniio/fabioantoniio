@@ -2,16 +2,11 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF0000&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Fábio+Antônio+F.+Barbosa;I'm+20+years+old;I+from+Brasil,+MG;I+study+Computer+Science+at+University+of+Catalão;+:%29)](https://git.io/typing-svg)
 
-<div align="center">
-  
-  ![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
-  
-</div>
-
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Fabioantonio757&show_icons=true&count_private=true&hide_border=true&title_color=FF0000&icon_color=FF0000&text_color=FF0000&bg_color=0d1117" alt="Fabio Antonio github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabioantoniio&layout=compact&hide_border=true&title_color=FF0000&text_color=FF0000&bg_color=0d1117" />
+  
 </div>
 
 ![Contribution](https://activity-graph.herokuapp.com/graph?username=fabioantoniio&theme=react-dark&hide_border=true&area=true&color=FF0000&line=808080&point=FF0000&area_color=808080)
@@ -40,8 +35,14 @@
 
  <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Fabioantonio757}/count.svg" /></p> 
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{fabioantoniio}/count.svg" /></p> 
 <br></div>
+
+ <div align="center">
+  
+  ![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
+  
+</div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=footer"/>
 
