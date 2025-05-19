@@ -33,7 +33,7 @@
 ### 📈 Estatísticas do GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fabioantoniio757&show_icons=true&theme=default" alt="Estatísticas do GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api?username=fabioantoniio&show_icons=true&theme=default" alt="Estatísticas do GitHub" />
 </p>
 
 ---
